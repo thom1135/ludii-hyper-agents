@@ -1,0 +1,11 @@
+,Model,Regret
+0,Random Forrest Regressor,5.223429470291149
+1,LinearRegression,19.026704824342758
+2,Gradient Boosting Regression,5.776803800250221
+3,SVR(Sigmoid),12.98972873714
+4,Dummy Regressor,12.98972873714
+5,Decision Tree Classifier,9.552869967153702
+6,Random Forest Classifier,7.188176437000324
+7,MLP Classifier,7.942369610041906
+8,Gausian NB,14.144890326405894
+9,Dummy Classifier,12.98972873714

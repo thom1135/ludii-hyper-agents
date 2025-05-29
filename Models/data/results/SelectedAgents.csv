@@ -1,0 +1,51 @@
+game_name,selected_agent
+Pentalpha,UCT
+Ringo,Alpha-Beta
+Domineering,MC-GRAVE
+"Shatranj al-Husun",Alpha-Beta
+Fanorona,Alpha-Beta
+"Upper Hand",MC-GRAVE
+Lotus,MC-GRAVE
+Plakoto,"Progressive History"
+Awithlaknakwe,Alpha-Beta
+Bizingo,Alpha-Beta
+"Pushing Me XO",UCT
+Havannah,MC-GRAVE
+"Onek Rong",MAST
+Reversi,Alpha-Beta
+"Omnidirectional Draughts",Alpha-Beta
+"EinStein Wurfelt Nicht",MAST
+"Shui Yen Ho-Shang",Alpha-Beta
+Susan,Alpha-Beta
+Faraday,Alpha-Beta
+"Chinese Checkers",Alpha-Beta
+Mastermind,"Progressive History"
+Daldos,UCT
+Pippinzip,MC-GRAVE
+Wagner,UCT
+Shisen-Sho,"Progressive History"
+Trike,"Progressive History"
+"Diviyan Keliya",Alpha-Beta
+"Tobi Shogi",Alpha-Beta
+Shantarad,Alpha-Beta
+Nama,"Progressive History"
+Bison,Alpha-Beta
+"Connect Four",UCT
+"Okwe Achalla",Alpha-Beta
+"Nine Mens Morris",Alpha-Beta
+Banqi,MC-GRAVE
+Terhuchu,Alpha-Beta
+Katro,Alpha-Beta
+Surakarta,Alpha-Beta
+"Lines of Action",Alpha-Beta
+Ploy,Alpha-Beta
+Triad,Alpha-Beta
+Amazons,MC-GRAVE
+"La Liebre Perseguida",Alpha-Beta
+Chomp,Alpha-Beta
+"Hops-a-Daisy Generalized",Alpha-Beta
+Janggi,Alpha-Beta
+Omega,MC-GRAVE
+Mehen,"Progressive History"
+"Mini Wars",Alpha-Beta
+Toki,Alpha-Beta

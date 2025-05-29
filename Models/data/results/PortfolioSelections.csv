@@ -1,0 +1,51 @@
+"Game Name",selected_agent,selected_heuristic
+"4 Squared",Alpha-Beta,UnthreatenedMaterialPos
+Agon,Alpha-Beta,MaterialPos
+Annuvin,Alpha-Beta,MaterialPos
+"Astralesce and Constellation",MC-GRAVE,LineCompletionHeuristicPos
+Azteka,"Progressive History",UnthreatenedMaterialPos
+Battleships,"Progressive History",MaterialPos
+"Beirut Chess",Alpha-Beta,CentreProximityPos
+Cascades,MC-GRAVE,ScorePos
+"Caturvimsatikosthakatmiki Krida",Alpha-Beta,MaterialPos
+Chaupar,"Progressive History",MaterialPos
+"Chong Sakhalin",MAST,UnthreatenedMaterialPos
+Dodo,Alpha-Beta,SidesProximityPos
+Fettas,Alpha-Beta,SidesProximityPos
+Fission,Alpha-Beta,MaterialPos
+"Game of Dwarfs",Alpha-Beta,ScorePos
+"Gobblet Gobblers",UCT,LineCompletionHeuristicPos
+HexGo,MC-GRAVE,UnthreatenedMaterialPos
+Hoshi,MAST,MobilitySimplePos
+"La Yagua",Alpha-Beta,SidesProximityPos
+Labirintus,"Progressive History",CornerProximityPos
+"Lets Catch the Lion",Alpha-Beta,MaterialPos
+"Lights Out","Progressive History",MobilityAdvancedPos
+Mahbouseh,"Progressive History",ScorePos
+Millieu,MAST,ScorePos
+Minefield,Alpha-Beta,MobilitySimplePos
+Morpharaoh,MC-GRAVE,CornerProximityPos
+"Murus Gallicus",Alpha-Beta,MaterialPos
+N-Mesh,MC-GRAVE,MaterialPos
+Paintscape,MC-GRAVE,ScorePos
+Pentago,MC-GRAVE,LineCompletionHeuristicPos
+Pic,UCT,ScorePos
+Plotto,Alpha-Beta,LineCompletionHeuristicPos
+Polypods,Alpha-Beta,ScorePos
+Puhulmutu,UCT,MobilitySimplePos
+Pyrga,UCT,ScorePos
+Redstone,Alpha-Beta,MaterialPos
+Rithmomachia,Alpha-Beta,MaterialPos
+Rock-Paper-Scissors,UCT,CornerProximityNeg
+Romavoa,"Progressive History",MaterialNeg
+"Shatranj 14x14",Alpha-Beta,CentreProximityPos
+"Sig wa Duqqan Houmt Taourit",UCT,MaterialPos
+"So Long Sucker",MAST,MobilityAdvancedPos
+Spava,Alpha-Beta,LineCompletionHeuristicPos
+Tama,Alpha-Beta,SidesProximityPos
+Tandems,Alpha-Beta,MobilityAdvancedPos
+"Tank Tactics",Alpha-Beta,ScorePos
+Tara,MC-GRAVE,LineCompletionHeuristicPos
+"Tibetan Jiuqi",Alpha-Beta,MaterialPos
+Trianon,MC-GRAVE,MobilitySimplePos
+Windflowers,MC-GRAVE,ScorePos

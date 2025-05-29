@@ -1,0 +1,6 @@
+selected_agent,count(selected_agent)
+Alpha-Beta,23
+UCT,6
+MC-GRAVE,10
+"Progressive History",7
+MAST,4
